@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.go{
+    color: blue;
+    font-size: 36px;
+}
+.gogo{
+    font-size: 24px;
+}
+.gogogo{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
